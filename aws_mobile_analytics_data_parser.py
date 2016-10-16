@@ -23,3 +23,4 @@ def parse_data_in_directory(directory):
 def jprint(d):
     print json.dumps(d, sort_keys=True, indent=4, separators=(',', ': '))
 
+
